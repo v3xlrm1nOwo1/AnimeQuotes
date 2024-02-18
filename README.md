@@ -53,6 +53,11 @@ print(f'Character: {random_quote["Character"]}')
 print(f'URL: {random_quote["URL"]}')
 ```
 
+```zsh
+Quote: 「今、人生のささいな出来事に対処する方法を学べば、後で役に立ちます。」 – 要潤子
+Character: 要潤子
+URL: https://ja.animemotivation.com/%E3%82%84%E3%82%8B%E6%B0%97%E3%82%92%E8%B5%B7%E3%81%93%E3%81%95%E3%81%9B%E3%82%8B%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AE%E5%BC%95%E7%94%A8/
+```
 
 ## Contributions
 We welcome contributions and feedback to make the Anime Quotes Dataset even more fantastic! Whether you're adding new quotes, enhancing existing ones, or providing valuable feedback, your input is highly appreciated.
