@@ -3,7 +3,7 @@
 
 
 
-# Anime Quotes Dataset – アニメの名言データセット 🌸
+# Anime Quotes Dataset – アニメの名言データセット 🎐
 
 > Welcome to Anime Quotes Dataset
 
@@ -23,7 +23,7 @@
 
 ## Overview
 This dataset contains a curated collection of inspiring and memorable quotes from various anime series, sourced from the [Anime Motivation](https://ja.animemotivation.com) website. The quotes are stored as a list of dictionaries and can be easily accessed for analysis, research, or personal enjoyment.
-<p>Can you find this dataset in my Huggingface account <a href="https://huggingface.co/v3xlrm1nOwo1">v3xlrm1nOwo1</a>.</p>
+<p>Can you find this dataset in my Huggingface account <a href="https://huggingface.co/datasets/v3xlrm1nOwo1/AnimeQuotes">v3xlrm1nOwo1</a>.</p>
 
 
 ## Data Format
@@ -69,8 +69,7 @@ A special thanks to [Anime Motivation](https://ja.animemotivation.com) for the i
 
 ## License
 This dataset is provided under the [Apache License 2.0](LICENSE). Feel free to use, modify, and share it.
+<p>Dive into the Anime Quotes Dataset and let the enchanting magic of anime wisdom unfold! 🌌✨🚀</p>
 
 
-> Dive into the Anime Quotes Dataset and let the enchanting magic of anime wisdom unfold! 🌌✨🚀
-
-
+> **_NOTE:_**  To contribute to the project, please contribute directly. I am happy to do so, and if you have any comments, advice, job opportunities, or want me to contribute to a project, please contact me I am happy to do so<a href='mailto:V3xlrm1nOwo1@gmail.com' target='blank'>V3xlrm1nOwo1@gmail.com</a>
