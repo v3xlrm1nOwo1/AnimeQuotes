@@ -3,7 +3,7 @@
 
 
 
-# Anime Quotes Dataset – アニメの名言データセット 🎐
+# Anime Quotes Dataset ― アニメの名言データセット🎐
 
 > Welcome to Anime Quotes Dataset
 
@@ -72,4 +72,4 @@ This dataset is provided under the [Apache License 2.0](LICENSE). Feel free to u
 <p>Dive into the Anime Quotes Dataset and let the enchanting magic of anime wisdom unfold! 🌌✨🚀</p>
 
 
-> **_NOTE:_**  To contribute to the project, please contribute directly. I am happy to do so, and if you have any comments, advice, job opportunities, or want me to contribute to a project, please contact me I am happy to do so<a href='mailto:V3xlrm1nOwo1@gmail.com' target='blank'>V3xlrm1nOwo1@gmail.com</a>
+> **_NOTE:_**  To contribute to the project, please contribute directly. I am happy to do so, and if you have any comments, advice, job opportunities, or want me to contribute to a project, please contact me I am happy to do so <a href='mailto:V3xlrm1nOwo1@gmail.com' target='blank'>V3xlrm1nOwo1@gmail.com</a>
